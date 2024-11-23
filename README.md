@@ -15,10 +15,34 @@ Solana Wallet Tracker is a lightweight and user-friendly application designed to
 
 
 
-▎Why is it Free?
+<!-- CONTRIBUTING -->
+## Contributing
+<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/2/website"><img src="https://opencollective.com/democracyearth/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/6/website"><img src="https://opencollective.com/democracyearth/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/9/website"><img src="https://opencollective.com/democracyearth/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/10/website"><img src="https://opencollective.com/democracyearth/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/democracyearth/backer/11/website"><img src="https://opencollective.com/democracyearth/backer/11/avatar.svg"></a>
 
-Solana Wallet Tracker is offered completely free of charge to promote transparency and accessibility within the Solana ecosystem. Our mission is to empower users by providing essential tools that enhance their experience without any financial barriers. We believe that everyone should have access to reliable wallet tracking solutions, and we are committed to keeping it free for all users while continuously improving the software with community feedback.
 
----
 
-Feel free to contribute, report issues, or suggest features on our GitHub repository! Thank you for using Solana Wallet Tracker!
+<p align="center">
+    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
+</p>
+
+
+Not sure where to start? Join our discord and we will help you get started!
+
+<a href="https://discord.gg"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+
+
+
+<p align="center">
+  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
+</p>
